@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Movie App
+          Movie App using API's
         </h1>
 
 
